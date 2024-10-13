@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "Advanced Voice",
+    "version": "854.0",
+    "description": "Convert text on web pages into spoken audio. Features include reading selected text, adjusting voice and speed settings, and saving audio files.",
+    "permissions": ["activeTab", "contextMenus", "storage", "scripting"],
+    "background": {
+      "service_worker": "assets/js/background.js"
+    },
+    "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/icons/icon16.png",
+      "48": "assets/icons/icon48.png",
+      "128": "assets/icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "assets/icons/icon16.png",
+    "48": "assets/icons/icon48.png",
+    "128": "assets/icons/icon128.png"
+  },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["assets/js/content.js"]
+      }
+    ]
+  }
+  
