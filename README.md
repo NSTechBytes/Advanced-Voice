@@ -115,7 +115,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions, feedback, or issues:
 
 - **GitHub Issues**: [Open an issue](https://github.com/NSTechBytes/Advanced-Voice/issues) on our GitHub repository.
-- **Email**: [nstechbytes@gmail.com](nstechbytes@gmail.com)
+- **Email**: nstechbytes@gmail.com
 
 ## Acknowledgments
 
