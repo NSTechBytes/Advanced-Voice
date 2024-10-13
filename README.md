@@ -12,15 +12,18 @@
 - **Save Audio**: Save the generated audio file to your local storage for offline access or sharing.
 - **Dark Mode**: Switch between light and dark themes for the extension popup to match your preferences.
 
+
+
 ## 📸 Screenshots
 
 ![Extension Preview Light Mode]
-*Light mode view*![Light](https://github.com/NSTechBytes/Projects-Templates/blob/main/Extensions/Advanced%20Voice/Light.png)
+*Light mode view with media controls.*![Light](https://github.com/NSTechBytes/Projects-Templates/blob/main/Extensions/Advanced%20Voice/Light.png)
 
 
-![Extension Preview Dark Mode]![Dark](https://github.com/NSTechBytes/Projects-Templates/blob/main/Extensions/Advanced%20Voice/Dark.png)
+![Extension Preview Dark Mode]
+*Dark mode view with media controls.*![Dark](https://github.com/NSTechBytes/Projects-Templates/blob/main/Extensions/Advanced%20Voice/Dark.png)
 
-*Dark mode view with .*
+
 
 
 ### Manual Installation
